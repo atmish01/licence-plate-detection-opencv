@@ -12,5 +12,5 @@ Segmentation of Image<br>
 Character Recognition<br>
 
 Utility:<br>
-This project will help us in Security and Surveillance purposes.
+This project will help us in Security, Surveillance and Enforcement purposes.
 
